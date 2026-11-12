@@ -1,0 +1,52 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="8388.6%p" android:keyHeight="6710.9%p" android:horizontalGap="0px" android:verticalGap="0px">
+  <Row android:keyHeight="5872%p">
+    <Key android:keyWidth="14260.6%p" android:codes="-2" android:keyEdgeFlags="0x1" android:keyIcon="@ref/0x7f020014" />
+    <Key android:keyWidth="13421.8%p" android:codes="-8" android:keyIcon="@ref/0x7f020004" />
+    <Key android:keyWidth="10066.3%p" android:horizontalGap="13421.8%p" android:codes="@ref/0x7f070010" android:isModifier="true" android:isRepeatable="true" android:keyLabel="↑" />
+    <Key android:keyWidth="10066.3%p" android:codes="@ref/0x7f070011" android:isModifier="true" android:isRepeatable="true" android:keyLabel="↓" />
+    <Key android:keyWidth="10066.3%p" android:codes="@ref/0x7f07000e" android:isModifier="true" android:isRepeatable="true" android:keyLabel="←" />
+    <Key android:keyWidth="10066.3%p" android:codes="@ref/0x7f07000f" android:isModifier="true" android:isRepeatable="true" android:keyLabel="→" />
+  </Row>
+  <Row android:keyWidth="8388.6%p">
+    <Key android:codes="2457" android:popupKeyboard="@ref/0x7f04001c" android:keyEdgeFlags="0x1" android:isModifier="true" android:keyLabel="ঙ" />
+    <Key android:codes="2479" android:popupCharacters="w" android:keyLabel="য" />
+    <Key android:codes="2465" android:popupKeyboard="@ref/0x7f040007" android:isModifier="true" android:keyLabel="ড" />
+    <Key android:codes="2474" android:popupKeyboard="@ref/0x7f040014" android:isModifier="true" android:keyLabel="প" />
+    <Key android:codes="2463" android:popupKeyboard="@ref/0x7f04001b" android:isModifier="true" android:keyLabel="ট" />
+    <Key android:codes="2458" android:popupKeyboard="@ref/0x7f040005" android:isModifier="true" android:keyLabel="চ" />
+    <Key android:codes="2460" android:popupKeyboard="@ref/0x7f04000b" android:isModifier="true" android:keyLabel="জ" />
+    <Key android:codes="2489" android:popupKeyboard="@ref/0x7f04000a" android:isModifier="true" android:keyLabel="হ" />
+    <Key android:codes="2455" android:popupKeyboard="@ref/0x7f040009" android:isModifier="true" android:keyLabel="গ" />
+    <Key android:codes="2524" android:popupKeyboard="@ref/0x7f040006" android:isModifier="true" android:keyLabel="ড়" />
+  </Row>
+  <Row android:keyWidth="8388.6%p">
+    <Key android:codes="2499" android:popupCharacters="a" android:keyEdgeFlags="0x1" android:keyIcon="@ref/0x7f020021" />
+    <Key android:codes="2497" android:popupCharacters="s" android:keyIcon="@ref/0x7f020024" />
+    <Key android:codes="2495" android:popupCharacters="d" android:keyIcon="@ref/0x7f020023" />
+    <Key android:codes="2494" android:popupCharacters="f" android:keyIcon="@ref/0x7f020001" />
+    <Key android:codes="2509" android:popupCharacters="g" android:keyIcon="@ref/0x7f020018" />
+    <Key android:codes="2476" android:popupKeyboard="@ref/0x7f040000" android:isModifier="true" android:keyLabel="ব" />
+    <Key android:codes="2453" android:popupKeyboard="@ref/0x7f04000c" android:isModifier="true" android:keyLabel="ক" />
+    <Key android:codes="2468" android:popupKeyboard="@ref/0x7f04001a" android:isModifier="true" android:keyLabel="ত" />
+    <Key android:codes="2470" android:popupKeyboard="@ref/0x7f040008" android:isModifier="true" android:keyLabel="দ" />
+    <Key android:codes="2510" android:keyLabel="ৎ" />
+  </Row>
+  <Row>
+    <Key android:keyWidth="12582.9%p" android:codes="-1" android:keyEdgeFlags="0x1" android:isModifier="true" android:isSticky="true" android:keyIcon="@ref/0x7f020026" />
+    <Key android:codes="25" android:popupCharacters="z" android:keyIcon="@ref/0x7f020020" />
+    <Key android:codes="2451" android:popupCharacters="x" android:keyLabel="ও" />
+    <Key android:codes="2503" android:keyIcon="@ref/0x7f020000" />
+    <Key android:codes="2480" android:popupKeyboard="@ref/0x7f04000e" android:isModifier="true" android:keyLabel="র" />
+    <Key android:codes="2472" android:popupKeyboard="@ref/0x7f040011" android:isModifier="true" android:keyLabel="ন" />
+    <Key android:codes="2488" android:popupKeyboard="@ref/0x7f040017" android:isModifier="true" android:keyLabel="স" />
+    <Key android:codes="2478" android:popupKeyboard="@ref/0x7f04000f" android:isModifier="true" android:keyLabel="ম" />
+    <Key android:keyWidth="12582.9%p" android:codes="-5" android:isRepeatable="true" android:keyIcon="@ref/0x7f02000b" />
+  </Row>
+  <Row android:keyHeight="7549.8%p" android:rowEdgeFlags="0x8">
+    <Key android:keyWidth="12582.9%p" android:popupKeyboard="@ref/0x7f040018" android:keyEdgeFlags="0x1" android:isModifier="true" android:keyOutputText="" android:keyLabel="স্বরবর্ণ" />
+    <Key android:keyWidth="12582.9%p" android:codes="44,63,33" android:keyLabel=", ? !" />
+    <Key android:keyWidth="29360.1%p" android:codes="32" android:isRepeatable="true" android:keyLabel="SPACE" />
+    <Key android:keyWidth="12582.9%p" android:codes="59,47,58" android:popupCharacters="m" android:keyLabel="; / :" />
+    <Key android:keyWidth="16777.2%p" android:codes="10" android:keyIcon="@ref/0x7f020015" />
+  </Row>
+</Keyboard>

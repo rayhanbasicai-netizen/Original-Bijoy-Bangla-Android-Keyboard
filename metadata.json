@@ -1,0 +1,6 @@
+{
+  "name": "Bijoy Bengali Keyboard Studio & Reference Engine",
+  "description": "Interactive Bijoy keyboard simulator, resource inspector, and complete Unicode conjunct mapping engine extracted from Original Bijoy Keyboard reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

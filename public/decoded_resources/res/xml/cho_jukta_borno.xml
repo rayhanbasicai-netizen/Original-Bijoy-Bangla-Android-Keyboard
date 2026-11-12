@@ -1,0 +1,8 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="8388.6%p" android:keyHeight="6710.9%p" android:horizontalGap="0px" android:verticalGap="0px">
+  <Row android:rowEdgeFlags="0x4">
+    <Key android:keyEdgeFlags="0x1" android:keyOutputText="চ্চ" android:keyLabel="চ্চ" />
+    <Key android:keyOutputText="চ্ছ" android:keyLabel="চ্ছ" />
+    <Key android:keyOutputText="চ্ঞ" android:keyLabel="চ্ঞ" />
+    <Key android:keyEdgeFlags="0x2" android:keyOutputText="চ্ছ্ব" android:keyLabel="চ্ছ্ব" />
+  </Row>
+</Keyboard>

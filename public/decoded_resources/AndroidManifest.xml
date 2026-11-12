@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="3" android:versionName="3.0" package="com.bijoy.keyboard" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727">
+  <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="29" />
+  <application android:theme="@ref/0x7f090001" android:label="@ref/0x7f080001" android:icon="@ref/0x7f020006" android:allowBackup="true">
+    <service android:label="@ref/0x7f080002" android:name="com.bijoy.keyboard.SimpleIME" android:permission="android.permission.BIND_INPUT_METHOD">
+      <meta-data android:name="android.view.im" android:resource="@ref/0x7f040010" />
+      <intent-filter>
+        <action android:name="android.view.InputMethod" />
+      </intent-filter>
+    </service>
+    <meta-data android:name="com.android.vending.derived.apk.id" android:value="1" />
+  </application>
+</manifest>
